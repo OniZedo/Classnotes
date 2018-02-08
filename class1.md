@@ -31,3 +31,12 @@
 - Organization - make your code look good and readable
 - Think outside the box
 - Open-mindedness
+
+- git checkout -b ebb/update-something
+- git push origin then name of branch.
+- git checkout . - gets rid of red
+- git clean -df
+- git reset -- hard origin/master (probably dont want to do that)
+- npm install express path --save
+- npm install
+- 
